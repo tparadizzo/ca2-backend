@@ -1,0 +1,17 @@
+.heading-animal {
+  margin-bottom: 21px;
+  margin-top: 19px;
+  font-size: 46px;
+
+  color: #357ebd;
+  font-weight: bold;
+}
+.add-animal-form {
+  padding: 43px;
+  background: #ebebef;
+}
+.btn-controls {
+  margin-left: 8px;
+  margin-bottom: 7px;
+  margin-top: 10px;
+}
